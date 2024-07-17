@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Steven Mukama 
 #### Software developer
-![Software developer](https://camo.githubusercontent.com/d58f4d1fef0e9ff37cfde0d2f5c5b28f0362bcd529e374bb889f250716ce05bf/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3630343739383638323932613564323965363961633662392f30323366393034612d643363612d343936632d396166622d3937343562326437623530332f4261736963732b6f662b566964656f2b436f64696e672e6769663f666f726d61743d3130303077)
 
 I am a software engineer who is passionate about building websites and web apps, Some technologies I enjoy working with include javascript, React, Redux, APIs, and other frontend technologies. But I am also working on improving my backend skills with Ruby, Nodejs, and database technologies such as MongoDB, and Postgres.
 
