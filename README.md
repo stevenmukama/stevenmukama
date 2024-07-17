@@ -8,7 +8,7 @@ Skills: REACT/ JS / REDUX / RUBY/ RUBY ON RAILS/ MONGODB / POSTGRES
 - 🔭 I did Microverse bootcamp. 
 - 👯 I’m looking to collaborate on Coding projects 
 - 💬 Ask me about software development  
-- 📫 How to reach me: Stevenmukama1@gmail.com 
+- 📫 How to reach me: stevenmukama1@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stevenmukama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/steven-mukama-b83067197//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mukama_steven )  
