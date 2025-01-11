@@ -5,7 +5,6 @@ I am a software engineer who is passionate about building websites and web apps,
 
 Skills: REACT/ JS / REDUX / RUBY/ RUBY ON RAILS/ MONGODB / POSTGRES 
 
-- 🔭 I did Microverse bootcamp. 
 - 👯 I’m looking to collaborate on Coding projects 
 - 💬 Ask me about software development  
 - 📫 How to reach me: stevenmukama1@gmail.com 
