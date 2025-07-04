@@ -7,9 +7,8 @@ Skills: REACT/ JS / REDUX / RUBY/ RUBY ON RAILS/ MONGODB / POSTGRES
 
 - 👯 I’m looking to collaborate on Coding projects 
 - 💬 Ask me about software development  
-- 📫 How to reach me: stevenmukama1@gmail.com 
+- 📫 How to reach me: stevenmukama1@gmail.com
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24">](https://github.com/stevenmukama) &nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="24">](https://www.linkedin.com/in/steven-mukama-b83067197/) &nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="24">](https://twitter.com/mukama_steven)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/stevenmukama)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-mukama-b83067197/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mukama_steven)
